@@ -4,8 +4,8 @@ Author URI: http://www.oviamsolutions.com
 Contributors: osolutions
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6Z2BBNERP6V2
 Tags: comment, comments,delete all, delete, remove all comments, remove all
-Requires at least: 3
-Tested up to: 3.5.1
+Requires at least: 3.8
+Tested up to: 4.2.2
 Stable tag:trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -37,6 +37,12 @@ Just a standard installation required.
 = 1.0 =
 
 * Stable plugin released
+
+= 1.1 =
+
+* Supports WP new database schema.
+* CSFR vulnerability fixed.
+
 
 == Upgrade Notice ==
 
